@@ -1,2 +1,2 @@
-# Night-Owl
+# NightOwl
 KDE Color theme
